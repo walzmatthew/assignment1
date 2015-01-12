@@ -15,3 +15,6 @@ MATLAB
 C
 C++
 Visual Basic
+
+Current Location:
+Seattle, Washington
