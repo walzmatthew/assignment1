@@ -1,6 +1,7 @@
 Education:
 Berea High School; Berea, Ohio
 University of Notre Dame; South Bend, Indiana
+Oregon State University; Corvallis, Oregon
 
 Hobbies/Interests:
 Ultimate Frisbee
